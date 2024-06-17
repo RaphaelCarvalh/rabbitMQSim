@@ -19,14 +19,14 @@ Consumidor (Consumer): É o agente responsável por consumir ou retirar uma info
 ## Uso...
 <div align="center">
   <h4>Mensagens enviadas e sendo acumuladas em fila de espera pois o Consumidor  estava offline,</h4>
-  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229181253597659238/image.png?ex=662ebf3f&is=661c4a3f&hm=574711ab9270d19b1aed31e06dc3495fea48f7d1ea0ac0963012c935141350a6&" width="620">
+  <img src="https://media.discordapp.net/attachments/1177172733554065428/1229181253597659238/image.png?ex=6671fbbf&is=6670aa3f&hm=c9e4e03c15acd98dfcbdb419f008cc860887411306afdb66b58941ef0b315893&=&format=webp&quality=lossless&width=1097&height=671">
 </div>
 <div align="center">
   <h4>Mensagens sendo entregues começam a esvaziar a fila,</h4>
-  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229181497148313641/image.png?ex=662ebf7a&is=661c4a7a&hm=bb08898c074ab08bfaf7866f7a1cec6f58e972ebd0d4c3f762136ab4ec8c535f&" width="620">
+  <img src="https://media.discordapp.net/attachments/1177172733554065428/1229181497148313641/image.png?ex=6671fbfa&is=6670aa7a&hm=18bb4971dbac12e9ed7ef4641b7bd8e9eb40c75d2c78b5144885bc10bb9b72ef&=&format=webp&quality=lossless&width=1440&height=584">
 </div>
 <div align="center">
   <h4>fila zerada apresentando um sincronismo entre Consumidor e Produtor !</h4>
-  <img src="https://cdn.discordapp.com/attachments/1177172733554065428/1229181554455220224/image.png?ex=662ebf87&is=661c4a87&hm=6affda2a1901dba2c05668c070119c1bcb1ff0f8d130aeb9cb6952c0b6f4ae6b&" width="620">
+  <img src="https://media.discordapp.net/attachments/1177172733554065428/1229181554455220224/image.png?ex=6671fc07&is=6670aa87&hm=dbe6f3b635e62ba1cba32c6ea8286aed4cdce4039348e439fae35089b43f90ab&=&format=webp&quality=lossless&width=1440&height=621">
 </div>
 
